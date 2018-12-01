@@ -26,7 +26,7 @@ var images = ["./assets/images/Blue.jpeg", "./assets/images/Green.jpeg", "./asse
 	function resetHTML () {
 		$(".target").html("<h5><strong>Target: </strong></h5>" + target);
 		$(".win-lose").html("<p>Wins: " + wins + "</p>" + "<p>Losses: " + losses + "</p>");
-		$(".score-number").html(counter);
+		$(".score-number").html("<h5><strong>Your score is: </strong></h5>" + counter);
 		$(".crystal-images").empty();
 	}
 

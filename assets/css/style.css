@@ -1,0 +1,95 @@
+body {
+	background-image: url("../images/triangular.png");
+	background-size: fill;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	padding-top: 20px;
+	padding-right: 0px;
+}
+
+.row { 
+	margin-right: 0px;
+}
+
+.game-name {
+	background-color: blue;
+	color: white;
+	border: solid black 4px;
+	padding-top: 10px;
+	padding-bottom:10px;
+}
+
+.panel{
+	border: solid black 4px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.random {
+	padding-left: 15px;
+}
+
+.target {
+	font-size: 30px;
+	font-weight: bold;
+	background-color: greenyellow;
+	border-style: solid;
+	border-color: black;
+	border-width: 4px;
+	padding-top: 11.5px;
+	padding-bottom: 11.5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.win-lose {
+	background-color: cyan;
+	font-weight: bold;
+	border-style: solid;
+	border-color: black;
+	border-width: 4px;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0px;
+	border: solid black 2px;
+	
+}
+
+
+.total-score {
+	color: black;
+	font-weight: bold;
+	background-color: red;
+	padding-top: 6px;
+	border-top: solid black 4px;
+	border-left: solid black 4px;
+	border-right: solid black 4px;
+}
+
+.score {
+	margin-top: 10px;
+}
+
+.score-text {
+	margin-bottom: 0px;
+}
+
+.score-number {
+	color: black;
+	background-color: red;
+	font-size: 30px;
+	font-weight: bold;
+	border-bottom: solid black 4px;
+	border-left: solid black 4px;
+	border-right: solid black 4px;
+}
+

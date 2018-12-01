@@ -1,2 +1,1 @@
-# Unit-4-game
-Crystal Collector game
+This crystal collector game gives you a random target number and four differently colored crystals with random values. Your goal is to click the crystals to make your score match the random target number. If you hit the target, you win. If you go over, you lose. Each time you restart the game or refresh the page, you will be given a new target number and new values for each crystal. This game was created with HTML, CSS, and Javascript/Jquery. This project was created by/is maintained by Stefan Kashner.
